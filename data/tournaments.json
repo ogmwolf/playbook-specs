@@ -1,0 +1,171 @@
+[
+  {
+    "id": "aim-tourney-3",
+    "name": "16/15 Tourney 3",
+    "startDate": "2026-05-30",
+    "endDate": "2026-05-30",
+    "venue": "AIM Sportsplex",
+    "location": "Seal Beach, CA",
+    "org": "AIM",
+    "type": "club",
+    "divisions": ["15U", "16U"],
+    "gender": "boys",
+    "notes": "Club league tournament. Check with your club for exact court times.",
+    "url": "https://www.aimvolleyball.com"
+  },
+  {
+    "id": "aim-spring-championships",
+    "name": "16/15 Spring Championships",
+    "startDate": "2026-06-06",
+    "endDate": "2026-06-06",
+    "venue": "AIM Sportsplex",
+    "location": "Seal Beach, CA",
+    "org": "AIM",
+    "type": "club",
+    "divisions": ["15U", "16U"],
+    "gender": "boys",
+    "notes": "End-of-season club league championships.",
+    "url": "https://www.aimvolleyball.com"
+  },
+  {
+    "id": "socal-cup-showcase-2026",
+    "name": "SoCal Cup: The Showcase",
+    "startDate": "2026-06-19",
+    "endDate": "2026-06-21",
+    "venue": "Los Angeles Convention Center",
+    "location": "Los Angeles, CA",
+    "org": "SoCal Cup / AAU",
+    "type": "national",
+    "divisions": ["12U", "13U", "14U", "15U", "16U", "17U", "18U"],
+    "gender": "boys",
+    "notes": "3-day AAU-sanctioned event. All participants must have AAU memberships. College coaches attend. Registration closes May 22, 2026.",
+    "url": "https://socalcupvolleyball.com/the-showcase/",
+    "registration": {
+      "fee": 1050,
+      "opens": "2025-09-08",
+      "closes": "2026-05-22",
+      "platform": "SportWrench"
+    }
+  },
+  {
+    "id": "aau-nationals-2026-wave1",
+    "name": "AAU Boys Junior National Championships — Wave 1",
+    "startDate": "2026-07-03",
+    "endDate": "2026-07-06",
+    "venue": "Orange County Convention Center",
+    "location": "Orlando, FL",
+    "org": "AAU",
+    "type": "national",
+    "divisions": ["12U", "13U", "16U", "18U"],
+    "gender": "boys",
+    "notes": "World's largest volleyball tournament. Wave 1 includes 12U, 13U, 16U, and 18U. Major college recruiting event — D1 coaches attend. Check-in July 2.",
+    "url": "https://aausports.org/volleyball/2026-boys-aau-nationals",
+    "registration": {
+      "platform": "AES",
+      "opens": "2025-12-01"
+    }
+  },
+  {
+    "id": "aau-nationals-2026-wave2",
+    "name": "AAU Boys Junior National Championships — Wave 2",
+    "startDate": "2026-07-07",
+    "endDate": "2026-07-10",
+    "venue": "Orange County Convention Center",
+    "location": "Orlando, FL",
+    "org": "AAU",
+    "type": "national",
+    "divisions": ["14U", "15U", "17U"],
+    "gender": "boys",
+    "notes": "Wave 2 includes 14U, 15U, and 17U. Check-in July 6.",
+    "url": "https://aausports.org/volleyball/2026-boys-aau-nationals",
+    "registration": {
+      "platform": "AES",
+      "opens": "2025-12-01"
+    }
+  },
+  {
+    "id": "scva-summer-soiree-2026",
+    "name": "SCVA Summer Soiree",
+    "startDate": "2026-05-29",
+    "endDate": "2026-05-31",
+    "venue": "TBD",
+    "location": "Anaheim, CA",
+    "org": "SCVA",
+    "type": "regional",
+    "divisions": ["12U", "13U", "14U", "15U", "16U", "17U", "18U"],
+    "gender": "girls",
+    "notes": "Not a USAV sanctioned event. SCVA-hosted summer tournament.",
+    "url": "https://www.scvavolleyball.org"
+  },
+  {
+    "id": "scva-red-rock-rave-2",
+    "name": "Red Rock Rave #2 — Junior National Qualifier",
+    "startDate": "2026-04-04",
+    "endDate": "2026-04-06",
+    "venue": "Mandalay Bay Convention Center",
+    "location": "Las Vegas, NV",
+    "org": "SCVA / USAV",
+    "type": "qualifier",
+    "divisions": ["12U", "13U", "14U", "15U", "16U", "17U", "18U"],
+    "gender": "girls",
+    "notes": "USAV sanctioned Junior National Qualifier. Major recruiting exposure event.",
+    "url": "https://www.scvavolleyball.org"
+  },
+  {
+    "id": "aim-sportsplex-id-camp-bigwest",
+    "name": "Big West ID Camp",
+    "startDate": "2026-04-05",
+    "endDate": "2026-04-05",
+    "venue": "CSULB",
+    "location": "Long Beach, CA",
+    "org": "Big West Conference",
+    "type": "id_camp",
+    "divisions": ["15U", "16U", "17U", "18U"],
+    "gender": "boys",
+    "notes": "College coaches from Big West programs evaluate prospects. Strong libero and setter exposure opportunity.",
+    "url": null
+  },
+  {
+    "id": "scva-las-vegas-classic-2026",
+    "name": "SCVA Las Vegas Classic",
+    "startDate": "2026-02-14",
+    "endDate": "2026-02-16",
+    "venue": "Las Vegas Convention Center",
+    "location": "Las Vegas, NV",
+    "org": "SCVA/USAV",
+    "type": "qualifier",
+    "gender": "girls"
+  },
+  {
+    "id": "scva-red-rock-rave-1",
+    "name": "Red Rock Rave #1",
+    "startDate": "2026-03-14",
+    "endDate": "2026-03-16",
+    "venue": "Las Vegas Convention Center",
+    "location": "Las Vegas, NV",
+    "org": "SCVA/USAV",
+    "type": "qualifier",
+    "divisions": ["18U", "17U", "16U", "15U"],
+    "gender": "girls"
+  },
+  {
+    "id": "socal-cup-equinox-2026",
+    "name": "SoCal Cup The Equinox",
+    "startDate": "2026-03-07",
+    "endDate": "2026-03-08",
+    "venue": "AIM Sportsplex",
+    "location": "Seal Beach, CA",
+    "type": "club",
+    "gender": "boys"
+  },
+  {
+    "id": "usav-boys-west-coast-qualifier-2026",
+    "name": "USAV Boys West Coast Qualifier",
+    "startDate": "2026-04-04",
+    "endDate": "2026-04-06",
+    "venue": "Great Park Ice",
+    "location": "Irvine, CA",
+    "type": "qualifier",
+    "gender": "boys"
+  }
+]

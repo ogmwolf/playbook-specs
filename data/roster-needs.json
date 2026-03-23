@@ -1,0 +1,761 @@
+{
+  "meta": {
+    "source": "VBNerd.com \u2014 committracker/universities/commits",
+    "scrapedAt": "2026-03-19",
+    "sport": "NCAA DI womens volleyball",
+    "note": "Data shows known commits only. A 'needs' flag means no known commit at that position \u2014 does not guarantee a roster opening. Re-scrape monthly during recruiting season.",
+    "usage": "In Playbook Schools tab: when a parent adds a school, look up that school in this file and show a badge if needsLibero or needsSetter is true for the athlete's class year.",
+    "gender": "womens",
+    "nextUpdateDue": "2026-04-19",
+    "displayNote": "Women's programs only. A needs flag means no known commit at that position \u2014 not a guarantee of a roster opening. Data updated monthly from VBNerd.com.",
+    "howToUse": "In Schools tab: match school name to university field. Show needs badge only when athlete gender is female. Display scrapedAt date so parents know freshness."
+  },
+  "classOf2026": [
+    {
+      "university": "Binghamton University",
+      "conference": "America East Conference",
+      "positionsCommitted": [
+        "OH",
+        "MB"
+      ],
+      "needsLibero": true,
+      "needsSetter": true,
+      "needsOpp": true
+    },
+    {
+      "university": "Bryant University",
+      "conference": "America East Conference",
+      "positionsCommitted": [
+        "MB",
+        "OH",
+        "Setter",
+        "Libero/DS",
+        "OPP/OH"
+      ],
+      "needsLibero": false,
+      "needsSetter": false,
+      "needsOpp": false
+    },
+    {
+      "university": "New Jersey Institute of Technology",
+      "conference": "America East Conference",
+      "positionsCommitted": [
+        "OH/OPP",
+        "Libero/DS"
+      ],
+      "needsLibero": false,
+      "needsSetter": true,
+      "needsOpp": false
+    },
+    {
+      "university": "University at Albany",
+      "conference": "America East Conference",
+      "positionsCommitted": [
+        "Setter/OPP",
+        "OH/OPP"
+      ],
+      "needsLibero": true,
+      "needsSetter": false,
+      "needsOpp": false
+    },
+    {
+      "university": "University of Maryland, Baltimore County",
+      "conference": "America East Conference",
+      "positionsCommitted": [
+        "OH",
+        "Libero/DS",
+        "Setter"
+      ],
+      "needsLibero": false,
+      "needsSetter": false,
+      "needsOpp": true
+    },
+    {
+      "university": "University of New Hampshire",
+      "conference": "America East Conference",
+      "positionsCommitted": [
+        "Setter",
+        "OH",
+        "MB"
+      ],
+      "needsLibero": true,
+      "needsSetter": false,
+      "needsOpp": true
+    },
+    {
+      "university": "East Carolina University",
+      "conference": "American Athletic Conference",
+      "positionsCommitted": [
+        "OH/OPP",
+        "Libero/DS",
+        "OH/MB",
+        "MB"
+      ],
+      "needsLibero": false,
+      "needsSetter": true,
+      "needsOpp": false
+    },
+    {
+      "university": "Florida Atlantic University",
+      "conference": "American Athletic Conference",
+      "positionsCommitted": [
+        "OH",
+        "MB",
+        "Setter",
+        "Libero/DS"
+      ],
+      "needsLibero": false,
+      "needsSetter": false,
+      "needsOpp": true
+    },
+    {
+      "university": "Rice University",
+      "conference": "American Athletic Conference",
+      "positionsCommitted": [
+        "OH",
+        "MB",
+        "Setter"
+      ],
+      "needsLibero": true,
+      "needsSetter": false,
+      "needsOpp": true
+    },
+    {
+      "university": "Temple University",
+      "conference": "American Athletic Conference",
+      "positionsCommitted": [
+        "OH",
+        "MB",
+        "Libero/DS"
+      ],
+      "needsLibero": false,
+      "needsSetter": true,
+      "needsOpp": true
+    },
+    {
+      "university": "The University of Tulsa",
+      "conference": "American Athletic Conference",
+      "positionsCommitted": [
+        "OH",
+        "Setter",
+        "Libero/DS"
+      ],
+      "needsLibero": false,
+      "needsSetter": false,
+      "needsOpp": true
+    },
+    {
+      "university": "Tulane University",
+      "conference": "American Athletic Conference",
+      "positionsCommitted": [
+        "OH",
+        "MB",
+        "Libero/DS"
+      ],
+      "needsLibero": false,
+      "needsSetter": true,
+      "needsOpp": true
+    },
+    {
+      "university": "University of Alabama at Birmingham",
+      "conference": "American Athletic Conference",
+      "positionsCommitted": [
+        "OH",
+        "MB",
+        "Setter"
+      ],
+      "needsLibero": true,
+      "needsSetter": false,
+      "needsOpp": true
+    },
+    {
+      "university": "University of Memphis",
+      "conference": "American Athletic Conference",
+      "positionsCommitted": [
+        "OH",
+        "MB",
+        "Setter"
+      ],
+      "needsLibero": true,
+      "needsSetter": false,
+      "needsOpp": true
+    },
+    {
+      "university": "University of South Florida",
+      "conference": "American Athletic Conference",
+      "positionsCommitted": [
+        "OH",
+        "MB"
+      ],
+      "needsLibero": true,
+      "needsSetter": true,
+      "needsOpp": true
+    },
+    {
+      "university": "University of Texas at San Antonio",
+      "conference": "American Athletic Conference",
+      "positionsCommitted": [
+        "OH",
+        "MB"
+      ],
+      "needsLibero": true,
+      "needsSetter": true,
+      "needsOpp": true
+    },
+    {
+      "university": "Cal Poly",
+      "conference": "Big West Conference",
+      "positionsCommitted": [
+        "OH",
+        "MB",
+        "Setter"
+      ],
+      "needsLibero": true,
+      "needsSetter": false,
+      "needsOpp": true
+    },
+    {
+      "university": "California State University, Fullerton",
+      "conference": "Big West Conference",
+      "positionsCommitted": [
+        "OH",
+        "MB",
+        "Libero/DS"
+      ],
+      "needsLibero": false,
+      "needsSetter": true,
+      "needsOpp": true
+    },
+    {
+      "university": "California State University, Northridge",
+      "conference": "Big West Conference",
+      "positionsCommitted": [
+        "OH",
+        "Setter",
+        "Libero/DS"
+      ],
+      "needsLibero": false,
+      "needsSetter": false,
+      "needsOpp": true
+    },
+    {
+      "university": "Long Beach State",
+      "conference": "Big West Conference",
+      "positionsCommitted": [
+        "OH",
+        "MB",
+        "Setter",
+        "Libero/DS"
+      ],
+      "needsLibero": false,
+      "needsSetter": false,
+      "needsOpp": true
+    },
+    {
+      "university": "UC Davis",
+      "conference": "Big West Conference",
+      "positionsCommitted": [
+        "OH",
+        "Setter",
+        "Libero/DS"
+      ],
+      "needsLibero": false,
+      "needsSetter": false,
+      "needsOpp": true
+    },
+    {
+      "university": "UC Irvine",
+      "conference": "Big West Conference",
+      "positionsCommitted": [
+        "OH",
+        "MB",
+        "Setter",
+        "Libero/DS"
+      ],
+      "needsLibero": false,
+      "needsSetter": false,
+      "needsOpp": true
+    },
+    {
+      "university": "UC Riverside",
+      "conference": "Big West Conference",
+      "positionsCommitted": [
+        "OH",
+        "MB",
+        "Libero/DS"
+      ],
+      "needsLibero": false,
+      "needsSetter": true,
+      "needsOpp": true
+    },
+    {
+      "university": "UC San Diego",
+      "conference": "Big West Conference",
+      "positionsCommitted": [
+        "OH",
+        "MB",
+        "Setter"
+      ],
+      "needsLibero": true,
+      "needsSetter": false,
+      "needsOpp": true
+    },
+    {
+      "university": "UC Santa Barbara",
+      "conference": "Big West Conference",
+      "positionsCommitted": [
+        "OH",
+        "MB",
+        "Setter",
+        "Libero/DS"
+      ],
+      "needsLibero": false,
+      "needsSetter": false,
+      "needsOpp": true
+    },
+    {
+      "university": "Hawaii",
+      "conference": "Big West Conference",
+      "positionsCommitted": [
+        "OH",
+        "MB",
+        "Setter",
+        "Libero/DS",
+        "OPP"
+      ],
+      "needsLibero": false,
+      "needsSetter": false,
+      "needsOpp": false
+    },
+    {
+      "university": "Loyola Marymount University",
+      "conference": "West Coast Conference",
+      "positionsCommitted": [
+        "OH",
+        "MB",
+        "Setter",
+        "Libero/DS"
+      ],
+      "needsLibero": false,
+      "needsSetter": false,
+      "needsOpp": true
+    },
+    {
+      "university": "Pepperdine University",
+      "conference": "West Coast Conference",
+      "positionsCommitted": [
+        "OH",
+        "MB",
+        "Setter",
+        "Libero/DS"
+      ],
+      "needsLibero": false,
+      "needsSetter": false,
+      "needsOpp": true
+    },
+    {
+      "university": "San Diego University",
+      "conference": "West Coast Conference",
+      "positionsCommitted": [
+        "OH",
+        "MB",
+        "Setter"
+      ],
+      "needsLibero": true,
+      "needsSetter": false,
+      "needsOpp": true
+    },
+    {
+      "university": "Santa Clara University",
+      "conference": "West Coast Conference",
+      "positionsCommitted": [
+        "OH",
+        "MB",
+        "Libero/DS"
+      ],
+      "needsLibero": false,
+      "needsSetter": true,
+      "needsOpp": true
+    },
+    {
+      "university": "UCLA",
+      "conference": "Pac-12 Conference",
+      "positionsCommitted": [
+        "OH",
+        "MB",
+        "Setter",
+        "Libero/DS",
+        "OPP"
+      ],
+      "needsLibero": false,
+      "needsSetter": false,
+      "needsOpp": false
+    },
+    {
+      "university": "University of Southern California",
+      "conference": "Pac-12 Conference",
+      "positionsCommitted": [
+        "OH",
+        "MB",
+        "Setter",
+        "Libero/DS"
+      ],
+      "needsLibero": false,
+      "needsSetter": false,
+      "needsOpp": true
+    },
+    {
+      "university": "Stanford University",
+      "conference": "Pac-12 Conference",
+      "positionsCommitted": [
+        "OH",
+        "MB",
+        "Setter",
+        "Libero/DS",
+        "OPP"
+      ],
+      "needsLibero": false,
+      "needsSetter": false,
+      "needsOpp": false
+    },
+    {
+      "university": "University of Washington",
+      "conference": "Pac-12 Conference",
+      "positionsCommitted": [
+        "OH",
+        "MB",
+        "Setter",
+        "Libero/DS"
+      ],
+      "needsLibero": false,
+      "needsSetter": false,
+      "needsOpp": true
+    },
+    {
+      "university": "Arizona State University",
+      "conference": "Pac-12 Conference",
+      "positionsCommitted": [
+        "OH",
+        "MB",
+        "Setter"
+      ],
+      "needsLibero": true,
+      "needsSetter": false,
+      "needsOpp": true
+    },
+    {
+      "university": "University of Arizona",
+      "conference": "Pac-12 Conference",
+      "positionsCommitted": [
+        "OH",
+        "MB",
+        "Libero/DS"
+      ],
+      "needsLibero": false,
+      "needsSetter": true,
+      "needsOpp": true
+    }
+  ],
+  "classOf2027": [
+    {
+      "university": "Bryant University",
+      "conference": "America East Conference",
+      "positionsCommitted": [
+        "OPP",
+        "Setter/OPP",
+        "MB/OPP"
+      ],
+      "needsLibero": true,
+      "needsSetter": false,
+      "needsOpp": false
+    },
+    {
+      "university": "University of Maryland, Baltimore County",
+      "conference": "America East Conference",
+      "positionsCommitted": [
+        "OPP"
+      ],
+      "needsLibero": true,
+      "needsSetter": true,
+      "needsOpp": false
+    },
+    {
+      "university": "University of New Hampshire",
+      "conference": "America East Conference",
+      "positionsCommitted": [
+        "MB"
+      ],
+      "needsLibero": true,
+      "needsSetter": true,
+      "needsOpp": true
+    },
+    {
+      "university": "East Carolina University",
+      "conference": "American Athletic Conference",
+      "positionsCommitted": [
+        "OH/OPP",
+        "Libero/DS",
+        "OH/MB",
+        "MB"
+      ],
+      "needsLibero": false,
+      "needsSetter": true,
+      "needsOpp": false
+    },
+    {
+      "university": "Florida Atlantic University",
+      "conference": "American Athletic Conference",
+      "positionsCommitted": [
+        "Libero/DS"
+      ],
+      "needsLibero": false,
+      "needsSetter": true,
+      "needsOpp": true
+    },
+    {
+      "university": "Rice University",
+      "conference": "American Athletic Conference",
+      "positionsCommitted": [
+        "OH",
+        "MB"
+      ],
+      "needsLibero": true,
+      "needsSetter": true,
+      "needsOpp": true
+    },
+    {
+      "university": "Temple University",
+      "conference": "American Athletic Conference",
+      "positionsCommitted": [
+        "Setter"
+      ],
+      "needsLibero": true,
+      "needsSetter": false,
+      "needsOpp": true
+    },
+    {
+      "university": "The University of Tulsa",
+      "conference": "American Athletic Conference",
+      "positionsCommitted": [
+        "MB",
+        "OPP"
+      ],
+      "needsLibero": true,
+      "needsSetter": true,
+      "needsOpp": false
+    },
+    {
+      "university": "Tulane University",
+      "conference": "American Athletic Conference",
+      "positionsCommitted": [
+        "Setter"
+      ],
+      "needsLibero": true,
+      "needsSetter": false,
+      "needsOpp": true
+    },
+    {
+      "university": "University of North Texas",
+      "conference": "American Athletic Conference",
+      "positionsCommitted": [
+        "OH",
+        "MB"
+      ],
+      "needsLibero": true,
+      "needsSetter": true,
+      "needsOpp": true
+    },
+    {
+      "university": "University of South Florida",
+      "conference": "American Athletic Conference",
+      "positionsCommitted": [
+        "OH"
+      ],
+      "needsLibero": true,
+      "needsSetter": true,
+      "needsOpp": true
+    },
+    {
+      "university": "Cal Poly",
+      "conference": "Big West Conference",
+      "positionsCommitted": [
+        "OH"
+      ],
+      "needsLibero": true,
+      "needsSetter": true,
+      "needsOpp": true
+    },
+    {
+      "university": "California State University, Northridge",
+      "conference": "Big West Conference",
+      "positionsCommitted": [
+        "Libero/DS"
+      ],
+      "needsLibero": false,
+      "needsSetter": true,
+      "needsOpp": true
+    },
+    {
+      "university": "Long Beach State",
+      "conference": "Big West Conference",
+      "positionsCommitted": [
+        "OH",
+        "MB"
+      ],
+      "needsLibero": true,
+      "needsSetter": true,
+      "needsOpp": true
+    },
+    {
+      "university": "UC Davis",
+      "conference": "Big West Conference",
+      "positionsCommitted": [
+        "OH"
+      ],
+      "needsLibero": true,
+      "needsSetter": true,
+      "needsOpp": true
+    },
+    {
+      "university": "UC Irvine",
+      "conference": "Big West Conference",
+      "positionsCommitted": [
+        "OH",
+        "Setter"
+      ],
+      "needsLibero": true,
+      "needsSetter": false,
+      "needsOpp": true
+    },
+    {
+      "university": "UC San Diego",
+      "conference": "Big West Conference",
+      "positionsCommitted": [
+        "OH"
+      ],
+      "needsLibero": true,
+      "needsSetter": true,
+      "needsOpp": true
+    },
+    {
+      "university": "UC Santa Barbara",
+      "conference": "Big West Conference",
+      "positionsCommitted": [
+        "OH",
+        "MB"
+      ],
+      "needsLibero": true,
+      "needsSetter": true,
+      "needsOpp": true
+    },
+    {
+      "university": "Hawaii",
+      "conference": "Big West Conference",
+      "positionsCommitted": [
+        "OH",
+        "MB",
+        "Setter"
+      ],
+      "needsLibero": true,
+      "needsSetter": false,
+      "needsOpp": true
+    },
+    {
+      "university": "Loyola Marymount University",
+      "conference": "West Coast Conference",
+      "positionsCommitted": [
+        "OH"
+      ],
+      "needsLibero": true,
+      "needsSetter": true,
+      "needsOpp": true
+    },
+    {
+      "university": "Pepperdine University",
+      "conference": "West Coast Conference",
+      "positionsCommitted": [
+        "OH",
+        "Setter"
+      ],
+      "needsLibero": true,
+      "needsSetter": false,
+      "needsOpp": true
+    },
+    {
+      "university": "San Diego University",
+      "conference": "West Coast Conference",
+      "positionsCommitted": [
+        "OH",
+        "MB"
+      ],
+      "needsLibero": true,
+      "needsSetter": true,
+      "needsOpp": true
+    },
+    {
+      "university": "UCLA",
+      "conference": "Pac-12 Conference",
+      "positionsCommitted": [
+        "OH",
+        "MB",
+        "Setter"
+      ],
+      "needsLibero": true,
+      "needsSetter": false,
+      "needsOpp": true
+    },
+    {
+      "university": "University of Southern California",
+      "conference": "Pac-12 Conference",
+      "positionsCommitted": [
+        "OH",
+        "MB"
+      ],
+      "needsLibero": true,
+      "needsSetter": true,
+      "needsOpp": true
+    },
+    {
+      "university": "Stanford University",
+      "conference": "Pac-12 Conference",
+      "positionsCommitted": [
+        "OH",
+        "MB",
+        "Setter"
+      ],
+      "needsLibero": true,
+      "needsSetter": false,
+      "needsOpp": true
+    },
+    {
+      "university": "University of Washington",
+      "conference": "Pac-12 Conference",
+      "positionsCommitted": [
+        "OH"
+      ],
+      "needsLibero": true,
+      "needsSetter": true,
+      "needsOpp": true
+    },
+    {
+      "university": "Arizona State University",
+      "conference": "Pac-12 Conference",
+      "positionsCommitted": [
+        "OH"
+      ],
+      "needsLibero": true,
+      "needsSetter": true,
+      "needsOpp": true
+    },
+    {
+      "university": "University of Arizona",
+      "conference": "Pac-12 Conference",
+      "positionsCommitted": [
+        "MB"
+      ],
+      "needsLibero": true,
+      "needsSetter": true,
+      "needsOpp": true
+    }
+  ]
+}
