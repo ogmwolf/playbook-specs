@@ -60,16 +60,15 @@ Never mix fonts within a single element. Never use font-size below 9px.
 
 ### App Background & Surface
 --bg: #FAFAF8 (warm off-white page background)
---bg2: #F3F2EE (subtle surface, used for inactive pills, hover states)
+--bg2: #F3F2EE (subtle surface, inactive pills, hover states)
 --bg3: #ECEAE4 (stronger surface)
 --card: #FFFFFF (card background)
 --border: #00000020 (card and divider borders)
---border2: rgba(0,0,0,0.14)
 
 ### Typography
---text: #1A1916 (primary text, warm near-black)
---text2: #6B6960 (secondary/muted text)
---text3: #9E9C94 (tertiary/hint text, labels, metadata)
+--text: #1A1916 (primary, warm near-black)
+--text2: #6B6960 (secondary/muted)
+--text3: #9E9C94 (tertiary/hint, labels, metadata)
 
 ### Semantic Colors
 --blue: #2563EB | --blue-bg: #EFF4FF | --blue-text: #1D4ED8
@@ -78,7 +77,7 @@ Never mix fonts within a single element. Never use font-size below 9px.
 --red: #DC2626 | --red-bg: #FEF2F2
 --purple: #7C3AED | --purple-bg: #F5F3FF | --purple-text: #4C1D95
 
-### Athlete Colors (muted, sophisticated — NOT primary colors)
+### Athlete Colors (muted, sophisticated — NEVER primary colors)
 .av-red: #C17B6A (terracotta)
 .av-blue: #5B8DB8 (slate blue)
 .av-green: #5A9E7A (sage green)
@@ -86,25 +85,24 @@ Never mix fonts within a single element. Never use font-size below 9px.
 .av-indigo: #7B6FA0 (dusty purple)
 .av-violet: #A07B8A (mauve)
 
-### Status Pill Colors (colleges/recruiting)
-watching: background var(--bg2), color var(--text2)
-contacted: background var(--blue-bg), color var(--blue)
-interested: background var(--green-bg), color var(--green)
-priority: background var(--amber-bg), color var(--amber-text)
+### Status Pill Colors
+watching → background var(--bg2), color var(--text2)
+contacted → background var(--blue-bg), color var(--blue)
+interested → background var(--green-bg), color var(--green)
+priority → background var(--amber-bg), color var(--amber-text)
 
-### Typography
+### Fonts
 --font: 'DM Sans' (all UI text)
---mono: 'DM Mono' (labels, stats, metadata, mono elements)
+--mono: 'DM Mono' (labels, stats, metadata)
 --r: 10px (standard border radius)
 --rl: 14px (large border radius)
 
-### Design Principles (from Jony Ive / Apple)
-- Warm, muted palette — never primary or saturated colors
-- CSS variables only — never hardcode hex values
+### Hard Rules
+- CSS variables only — never hardcode hex
 - No inline styles on non-SVG elements
 - All classes defined in globals.css before use
 - Athlete colors are identity markers, not UI states
-- Status colors use semantic bg/text variable pairs
+- Status colors always use bg/text variable pairs
 
 ---
 
