@@ -1,0 +1,95 @@
+{
+  "sources": [
+    "https://www.ncsasports.org/mens-volleyball/recruiting-guidelines",
+    "https://www.ncsasports.org/womens-volleyball/recruiting-guidelines",
+    "https://www.ncaa.com/stats/volleyball-men/d1",
+    "https://www.ncaa.com/stats/volleyball-women/d1"
+  ],
+  "lastUpdated": "2026-03",
+  "positions": {
+    "Libero": {
+      "male": {
+        "d1": { "passAverage": 2.4, "serveReceivePct": 75, "digAvgPerSet": 5.0, "serveAcesPerSet": 0.8, "height": "5'10\"", "vertical": 26 },
+        "d2": { "passAverage": 2.1, "serveReceivePct": 65, "digAvgPerSet": 4.0, "serveAcesPerSet": 0.6, "height": "5'8\"", "vertical": 22 },
+        "d3": { "passAverage": 1.8, "serveReceivePct": 55, "digAvgPerSet": 3.0, "serveAcesPerSet": 0.4, "height": "5'6\"", "vertical": 18 }
+      },
+      "female": {
+        "d1": { "passAverage": 2.3, "serveReceivePct": 72, "digAvgPerSet": 4.5, "serveAcesPerSet": 0.6, "height": "5'5\"", "vertical": 20 },
+        "d2": { "passAverage": 2.0, "serveReceivePct": 62, "digAvgPerSet": 3.5, "serveAcesPerSet": 0.4, "height": "5'3\"", "vertical": 18 },
+        "d3": { "passAverage": 1.7, "serveReceivePct": 52, "digAvgPerSet": 2.8, "serveAcesPerSet": 0.3, "height": "5'1\"", "vertical": 16 }
+      }
+    },
+    "Setter": {
+      "male": {
+        "d1": { "setEfficiencyPct": 65, "assistsPerSet": 11, "oppAttackPct": 38, "serveAcesPerSet": 1.0, "height": "6'2\"", "approachTouch": "10'6\"" },
+        "d2": { "setEfficiencyPct": 55, "assistsPerSet": 9, "oppAttackPct": 33, "serveAcesPerSet": 0.8, "height": "6'0\"", "approachTouch": "10'0\"" },
+        "d3": { "setEfficiencyPct": 45, "assistsPerSet": 7, "oppAttackPct": 28, "serveAcesPerSet": 0.5, "height": "5'10\"", "approachTouch": "9'6\"" }
+      },
+      "female": {
+        "d1": { "setEfficiencyPct": 62, "assistsPerSet": 10, "oppAttackPct": 35, "serveAcesPerSet": 0.8, "height": "5'10\"", "approachTouch": "9'6\"" },
+        "d2": { "setEfficiencyPct": 52, "assistsPerSet": 8, "oppAttackPct": 30, "serveAcesPerSet": 0.6, "height": "5'7\"", "approachTouch": "9'0\"" },
+        "d3": { "setEfficiencyPct": 42, "assistsPerSet": 6, "oppAttackPct": 25, "serveAcesPerSet": 0.4, "height": "5'5\"", "approachTouch": "8'8\"" }
+      }
+    },
+    "Outside Hitter": {
+      "male": {
+        "d1": { "attackPct": 38, "killsPerSet": 4.0, "hittingEfficiency": 0.28, "blocksPerSet": 0.8, "height": "6'3\"", "approachTouch": "11'0\"" },
+        "d2": { "attackPct": 33, "killsPerSet": 3.2, "hittingEfficiency": 0.22, "blocksPerSet": 0.6, "height": "6'1\"", "approachTouch": "10'6\"" },
+        "d3": { "attackPct": 28, "killsPerSet": 2.5, "hittingEfficiency": 0.15, "blocksPerSet": 0.4, "height": "5'11\"", "approachTouch": "10'0\"" }
+      },
+      "female": {
+        "d1": { "attackPct": 35, "killsPerSet": 3.5, "hittingEfficiency": 0.25, "blocksPerSet": 0.7, "height": "5'11\"", "approachTouch": "9'10\"" },
+        "d2": { "attackPct": 30, "killsPerSet": 2.8, "hittingEfficiency": 0.20, "blocksPerSet": 0.5, "height": "5'8\"", "approachTouch": "9'4\"" },
+        "d3": { "attackPct": 25, "killsPerSet": 2.2, "hittingEfficiency": 0.13, "blocksPerSet": 0.3, "height": "5'6\"", "approachTouch": "8'10\"" }
+      }
+    },
+    "Middle Blocker": {
+      "male": {
+        "d1": { "attackPct": 40, "killsPerSet": 3.5, "hittingEfficiency": 0.30, "blocksPerSet": 1.2, "height": "6'5\"", "approachTouch": "11'6\"" },
+        "d2": { "attackPct": 35, "killsPerSet": 2.8, "hittingEfficiency": 0.24, "blocksPerSet": 0.9, "height": "6'2\"", "approachTouch": "11'0\"" },
+        "d3": { "attackPct": 28, "killsPerSet": 2.2, "hittingEfficiency": 0.16, "blocksPerSet": 0.6, "height": "6'0\"", "approachTouch": "10'6\"" }
+      },
+      "female": {
+        "d1": { "attackPct": 38, "killsPerSet": 3.2, "hittingEfficiency": 0.28, "blocksPerSet": 1.1, "height": "6'1\"", "approachTouch": "10'6\"" },
+        "d2": { "attackPct": 32, "killsPerSet": 2.5, "hittingEfficiency": 0.22, "blocksPerSet": 0.8, "height": "5'11\"", "approachTouch": "10'0\"" },
+        "d3": { "attackPct": 25, "killsPerSet": 2.0, "hittingEfficiency": 0.14, "blocksPerSet": 0.5, "height": "5'9\"", "approachTouch": "9'6\"" }
+      }
+    },
+    "Opposite": {
+      "male": {
+        "d1": { "attackPct": 38, "killsPerSet": 4.2, "hittingEfficiency": 0.28, "blocksPerSet": 1.0, "height": "6'4\"", "approachTouch": "11'4\"" },
+        "d2": { "attackPct": 33, "killsPerSet": 3.4, "hittingEfficiency": 0.22, "blocksPerSet": 0.8, "height": "6'2\"", "approachTouch": "10'10\"" },
+        "d3": { "attackPct": 27, "killsPerSet": 2.6, "hittingEfficiency": 0.15, "blocksPerSet": 0.5, "height": "6'0\"", "approachTouch": "10'4\"" }
+      },
+      "female": {
+        "d1": { "attackPct": 36, "killsPerSet": 3.8, "hittingEfficiency": 0.26, "blocksPerSet": 0.9, "height": "6'0\"", "approachTouch": "10'2\"" },
+        "d2": { "attackPct": 30, "killsPerSet": 3.0, "hittingEfficiency": 0.20, "blocksPerSet": 0.6, "height": "5'10\"", "approachTouch": "9'8\"" },
+        "d3": { "attackPct": 24, "killsPerSet": 2.3, "hittingEfficiency": 0.13, "blocksPerSet": 0.4, "height": "5'8\"", "approachTouch": "9'2\"" }
+      }
+    },
+    "Setter/Oppo": {
+      "male": {
+        "d1": { "setEfficiencyPct": 62, "assistsPerSet": 10, "oppAttackPct": 36, "serveAcesPerSet": 0.9, "height": "6'3\"", "approachTouch": "10'8\"" },
+        "d2": { "setEfficiencyPct": 52, "assistsPerSet": 8, "oppAttackPct": 31, "serveAcesPerSet": 0.7, "height": "6'1\"", "approachTouch": "10'2\"" },
+        "d3": { "setEfficiencyPct": 43, "assistsPerSet": 6, "oppAttackPct": 26, "serveAcesPerSet": 0.5, "height": "5'11\"", "approachTouch": "9'8\"" }
+      },
+      "female": {
+        "d1": { "setEfficiencyPct": 60, "assistsPerSet": 9, "oppAttackPct": 33, "serveAcesPerSet": 0.7, "height": "5'11\"", "approachTouch": "9'8\"" },
+        "d2": { "setEfficiencyPct": 50, "assistsPerSet": 7, "oppAttackPct": 28, "serveAcesPerSet": 0.5, "height": "5'8\"", "approachTouch": "9'2\"" },
+        "d3": { "setEfficiencyPct": 40, "assistsPerSet": 5, "oppAttackPct": 23, "serveAcesPerSet": 0.3, "height": "5'6\"", "approachTouch": "8'8\"" }
+      }
+    },
+    "Defensive Specialist": {
+      "male": {
+        "d1": { "passAverage": 2.3, "serveReceivePct": 72, "digAvgPerSet": 4.5, "serveAcesPerSet": 0.7, "height": "5'10\"", "vertical": 24 },
+        "d2": { "passAverage": 2.0, "serveReceivePct": 62, "digAvgPerSet": 3.5, "serveAcesPerSet": 0.5, "height": "5'8\"", "vertical": 20 },
+        "d3": { "passAverage": 1.7, "serveReceivePct": 52, "digAvgPerSet": 2.8, "serveAcesPerSet": 0.3, "height": "5'6\"", "vertical": 18 }
+      },
+      "female": {
+        "d1": { "passAverage": 2.2, "serveReceivePct": 70, "digAvgPerSet": 4.2, "serveAcesPerSet": 0.5, "height": "5'4\"", "vertical": 20 },
+        "d2": { "passAverage": 1.9, "serveReceivePct": 60, "digAvgPerSet": 3.2, "serveAcesPerSet": 0.3, "height": "5'2\"", "vertical": 17 },
+        "d3": { "passAverage": 1.6, "serveReceivePct": 50, "digAvgPerSet": 2.5, "serveAcesPerSet": 0.2, "height": "5'0\"", "vertical": 15 }
+      }
+    }
+  }
+}
